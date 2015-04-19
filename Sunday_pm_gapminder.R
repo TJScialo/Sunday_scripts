@@ -42,6 +42,7 @@ gap.in %>%
 #samples the exported data
 data.out[2:3,]
 
+data(iris)
 attach(iris)
 iris
 
